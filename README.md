@@ -1,6 +1,10 @@
 # praanscribe
 
-A small application for automatically transcribing audio files and creating TextGrid files to be used in Praat.
+praanscribe is a small application for automatically transcribing audio and creating TextGrid files to be used in Praat.
+
+## Purpose
+
+Praat utilizes the ‘TextGrid’ file format to integrate annotations into audio files. Manual transcription is frequently utilized during this process. The application’s goal is to automate this procedure by transcribing the utterances from audio files and generating TextGrid files that match the original audio’s length.
 
 ## Usage
 
